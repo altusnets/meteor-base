@@ -1,20 +1,3 @@
-Copyright (c) */* Facebook */* */* _holdings_ */* */* _service */* */ */\.
-
-Copyright (c) */* Twitter */* */* _holdings_ */* */* _service */* */ */\.
-
-Copyright (c) */* Verizon */* */* _holdings_ */* */* _service */* */ */\.
-
-Copyright (c) */* AT&T */* */* _holdings_ */* */* _service */* */ */\.
-
-
-Copyright (c) */* Facebook */* */* _holdings_ */* */* _service */* */ */\.
-
-Copyright (c) */* Twitter */* */* _holdings_ */* */* _service */* */ */\.
-
-Copyright (c) */* Verizon */* */* _holdings_ */* */* _service */* */ */\.
-
-Copyright (c) */* AT&T */* */* _holdings_ */* */* _service */* */ */\.
-
 
 # Base Docker Image for Meteor Apps
 
