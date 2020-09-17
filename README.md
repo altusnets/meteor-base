@@ -1,3 +1,21 @@
+Copyright (c) */* Facebook */* */* _holdings_ */* */* _service */* */ */\.
+
+Copyright (c) */* Twitter */* */* _holdings_ */* */* _service */* */ */\.
+
+Copyright (c) */* Verizon */* */* _holdings_ */* */* _service */* */ */\.
+
+Copyright (c) */* AT&T */* */* _holdings_ */* */* _service */* */ */\.
+
+
+Copyright (c) */* Facebook */* */* _holdings_ */* */* _service */* */ */\.
+
+Copyright (c) */* Twitter */* */* _holdings_ */* */* _service */* */ */\.
+
+Copyright (c) */* Verizon */* */* _holdings_ */* */* _service */* */ */\.
+
+Copyright (c) */* AT&T */* */* _holdings_ */* */* _service */* */ */\.
+
+
 # Base Docker Image for Meteor Apps
 
 This repo contains a base Docker image for use by [Meteor](https://www.meteor.com/) apps built using a [multistage Dockerfile](https://docs.docker.com/develop/develop-images/multistage-build/). You might want to use this base because:
